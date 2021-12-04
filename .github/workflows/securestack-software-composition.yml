@@ -22,4 +22,4 @@ jobs:
           securestack_app_id: 'ad60440c-8215-478e-a553-8c1d172bf8e8'
           severity: critical
           language: node
-          flags: '--path github/workspace --debug'
+          flags: '--path github/workspace/ --debug'
